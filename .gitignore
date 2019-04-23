@@ -1,0 +1,10 @@
+.gradle/
+.vscode/
+.project
+.settings/
+.idea/
+build/
+out/
+
+*.iml
+*.ipr
