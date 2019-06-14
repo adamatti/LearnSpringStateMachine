@@ -1,0 +1,6 @@
+Pet project to play with https://projects.spring.io/spring-statemachine/[spring state machine]
+
+#### things to cover
+
+* send complex event
+* guards
